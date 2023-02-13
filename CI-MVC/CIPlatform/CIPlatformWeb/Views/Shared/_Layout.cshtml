@@ -4,9 +4,13 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - CIPlatformWeb</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/CIPlatformWeb.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />@*
+    <link rel="stylesheet" href="~/css/Login.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Forgotpassword.css" asp-append-version="true"/>
+    <link rel="stylesheet" href="~/css/Registration.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Resetpassword.css" asp-append-version="true" />*@
+@*
+    <link rel="stylesheet" href="~/CIPlatformWeb.styles.css" asp-append-version="true" />*@
 </head>
 <body>
    @* <header>
@@ -31,7 +35,7 @@
         </nav>
     </header>*@
     <div class="container-fluid">
-        <main role="main" class="pb-3">
+        <main role="main" >
             @RenderBody()
         </main>
     </div>

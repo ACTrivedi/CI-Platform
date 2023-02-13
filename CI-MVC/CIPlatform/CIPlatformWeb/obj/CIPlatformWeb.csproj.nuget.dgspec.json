@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Aakash's Work\\TatvaSoft\\MVC\\CIPlatform\\CIPlatformWeb\\CIPlatformWeb.csproj": {}
+    "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\CIPlatformWeb.csproj": {}
   },
   "projects": {
-    "C:\\Aakash's Work\\TatvaSoft\\MVC\\CIPlatform\\CIPlatformWeb\\CIPlatformWeb.csproj": {
+    "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\CIPlatformWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aakash's Work\\TatvaSoft\\MVC\\CIPlatform\\CIPlatformWeb\\CIPlatformWeb.csproj",
+        "projectUniqueName": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\CIPlatformWeb.csproj",
         "projectName": "CIPlatformWeb",
-        "projectPath": "C:\\Aakash's Work\\TatvaSoft\\MVC\\CIPlatform\\CIPlatformWeb\\CIPlatformWeb.csproj",
+        "projectPath": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\CIPlatformWeb.csproj",
         "packagesPath": "C:\\Users\\aakas\\.nuget\\packages\\",
-        "outputPath": "C:\\Aakash's Work\\TatvaSoft\\MVC\\CIPlatform\\CIPlatformWeb\\obj\\",
+        "outputPath": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aakas\\AppData\\Roaming\\NuGet\\NuGet.Config",
