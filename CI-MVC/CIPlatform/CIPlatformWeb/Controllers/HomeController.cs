@@ -36,6 +36,14 @@ namespace CIPlatformWeb.Controllers
             return View();
         }
 
+        //Home Page
+
+        public IActionResult Homepage()
+        {
+            return View();
+        }
+
+
 
 
 

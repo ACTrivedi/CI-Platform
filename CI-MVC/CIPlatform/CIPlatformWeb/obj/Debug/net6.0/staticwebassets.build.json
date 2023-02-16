@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6ukMjs67jUBQ5uVTEqtCUmJmd/u3DtCPVgPhZvbPyv8=",
+  "Hash": "wX619V985sLRDQRM1DE8tmhWzeK8/aA1ER4fx/b92cs=",
   "Source": "CIPlatformWeb",
   "BasePath": "_content/CIPlatformWeb",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CIPlatformWeb.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\css\\FilterBar.css",
+      "SourceId": "CIPlatformWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\",
+      "BasePath": "_content/CIPlatformWeb",
+      "RelativePath": "css/FilterBar.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\FilterBar.css"
+    },
+    {
       "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\css\\Forgotpassword.css",
       "SourceId": "CIPlatformWeb",
       "SourceType": "Discovered",
@@ -66,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Forgotpassword.css"
+    },
+    {
+      "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\css\\HeaderBar.css",
+      "SourceId": "CIPlatformWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\",
+      "BasePath": "_content/CIPlatformWeb",
+      "RelativePath": "css/HeaderBar.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\HeaderBar.css"
     },
     {
       "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\css\\Login.css",
@@ -151,6 +185,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Grow-Trees-On-the-path-to-environment-sustainability-login.png"
+    },
+    {
+      "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\images\\Profilephoto.png",
+      "SourceId": "CIPlatformWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\",
+      "BasePath": "_content/CIPlatformWeb",
+      "RelativePath": "images/Profilephoto.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Profilephoto.png"
     },
     {
       "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\js\\site.js",
