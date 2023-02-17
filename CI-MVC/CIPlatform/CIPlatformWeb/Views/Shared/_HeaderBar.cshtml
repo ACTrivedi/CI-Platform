@@ -1,71 +1,79 @@
-﻿
-@*My*@
+﻿<html>
+    <head>
+        <title>HEADERBAR</title>
+    </head>
+    <body>
 
-<nav class="navbar  navbar-expand-sm justify-content-around border-bottom">
-    
-    <div class="d-flex justify-content-around">
+    <nav class="navbar navbar-expand-lg   navbar-light bg-light">
+        
+        
+        
+        
+        
+        
+        
+        <a class="navbar-brand" href="~/images/Companylogo.png">Company</a>
+        
 
-        <a class="" href="#" style="text-decoration:none; color:black;">
-            Stories
-        </a>
-
-        <div class="dropdown pl-5">
-            <a class="dropdown-toggle"  id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Policy
-            </a>
-            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="#">Action</a>
-                <a class="dropdown-item" href="#">Another action</a>
-                <a class="dropdown-item" href="#">Something else here</a>
-            </div>
+        <div class="collapse navbar-collapse " id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Stories</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Policy
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">Action</a>
+                        <a class="dropdown-item" href="#">Another action</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Something else here</a>
+                    </div>
+                </li>
+                
+            </ul>
+            
         </div>
 
 
-       
-   
-    </div>
-
-
-
-
-
-
-
-    <div class="align-items-end">
-        <div class="collapse navbar-collapse" id="navbar-list-4">
-        <ul class="navbar-nav">
+        @*Code for profile*@
+        
+        
+        
+            <ul class="navbar-nav">
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" style="text-decoration:none; color:black;" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <img src="~/images/Profilephoto.png" width="40" height="40" class="rounded-circle">
+
+                    <span class="s1"> Evan Donohue</span>
                         
+                    </a>
                     
-                    <img src="~/images/Profilephoto.png" width="40" height="40" class="rounded-circle">
-                        <span class="pl-3" style="text-decoration:none; color:black;"> Profile</span>
-                
-                </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="#">Dashboard</a>
+                        <a class="dropdown-item" href="#">Edit Profile</a>
+                        <a class="dropdown-item" href="#">Log Out</a>
+                    </div>
+                </li>
+            </ul>
+     
+        @*Code for profile ends*@
 
-               
-                
-                
-                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    <a class="dropdown-item" href="#">Dashboard</a>
-                    <a class="dropdown-item" href="#">Edit Profile</a>
-                    <a class="dropdown-item" href="#">Log Out</a>
-                </div>
-            </li>
-        </ul>
-    </div>
-
-    </div>
-</nav>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
 
 
+    </nav>
+    
+    </body>
+</html>
 
 
 
-<script>
-    (function () {
-        $('#msbo').on('click', function () {
-            $('body').toggleClass('msb-x');
-        });
-    }());
-</script>
+
+
+
+

@@ -53,9 +53,26 @@
         background-color: #E9F8F9;
     }
 
-    .b1 {
-        padding:5px !important;
-        font-size:12px;
+    .filterquery{
+        display:none !important;
+    }
+    .fc {
+        width: 20px;
+        height: 20px;
+        margin-top: 13px;
     }
 
+    .fl {
+        font-size: 17px;
+    }
+
+
+}
+
+@media (min-width:380px)  {
+  
+
+    .menuicon {
+        display:none ;
+    }
 }
