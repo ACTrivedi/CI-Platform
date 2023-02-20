@@ -1,0 +1,49 @@
+﻿body {
+    
+}
+.button1, .button2 {
+    border:2px black;
+}
+
+.new{
+    display:flex;
+    flex-direction:column;
+}
+.old{
+    display:flex;
+    flex-direction:row;
+}
+.cardimagelist {
+    width:30%;
+
+}
+
+/*For Cards*/
+.SEDdiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    .SEDdiv hr {
+        flex: 1;
+        border: none;
+        height: 2px;
+        background: black;
+    }
+
+
+.maindiv {
+    display: none;
+}
+
+
+
+@media (min-width:370px) and (max-width:976px) {
+
+    h4 {
+       position:relative;
+       left:30%;
+    }
+}
+
+
