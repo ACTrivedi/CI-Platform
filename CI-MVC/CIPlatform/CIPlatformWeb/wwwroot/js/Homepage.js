@@ -1,6 +1,7 @@
 ﻿var cards = document.getElementsByClassName("card1");
 document.getElementById("list-btn").onclick = function () {
-    
+    //document.getElementById("abc").classList.add("col-3");
+    //document.getElementById("xyz").classList.add("col-9");
     document.querySelector(".card-cont").classList.toggle("new");
 
     for (var i = 0; i < cards.length; i++) {
@@ -82,3 +83,4 @@ if (searchedvalue == "Aakash") {
     console.log(searchedvalue);
     document.getElementById("maindivvv").classList.toggle("maindiv");
 }
+

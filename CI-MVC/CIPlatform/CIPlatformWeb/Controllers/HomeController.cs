@@ -43,7 +43,12 @@ namespace CIPlatformWeb.Controllers
             return View();
         }
 
-        
+        public IActionResult VolunteeringMissionPage()
+        {
+            return View();
+        }
+
+
 
 
 
