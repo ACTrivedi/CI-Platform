@@ -25,6 +25,7 @@
 .filterinput {
    /* width:100% !important;*/
     border:none !important;
+    width:90%;
 }
 
 /*@media (min-width: 370px) and (max-width: 770px) {
@@ -40,7 +41,7 @@
 
 }*/
 
-@media only screen and (max-width:370px) {
+@media only screen and (max-width:460px) {
     body {
         background-color: #E9F8F9;
     }
@@ -61,7 +62,7 @@
 
 }
 
-@media (min-width:380px)  {
+@media (min-width:460px)  {
   
 
     .menuicon {

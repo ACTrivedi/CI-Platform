@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WwYUQRx1k+6f7mI9DlhS0OC6QXSHX3Khq4uWsr4Poss=",
+  "Hash": "plNvM7I4UvCBRfK3eZBwqKFh3U/gbYIi+k4R4FPGdE0=",
   "Source": "CIPlatformWeb",
   "BasePath": "_content/CIPlatformWeb",
   "Mode": "Default",
@@ -238,6 +238,23 @@
       "OriginalItemSpec": "wwwroot\\images\\achieved.png"
     },
     {
+      "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\images\\add1.png",
+      "SourceId": "CIPlatformWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\",
+      "BasePath": "_content/CIPlatformWeb",
+      "RelativePath": "images/add1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\add1.png"
+    },
+    {
       "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\images\\Animal-welfare-_-save-birds-campaign.png",
       "SourceId": "CIPlatformWeb",
       "SourceType": "Discovered",
@@ -270,6 +287,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\bell.png"
+    },
+    {
+      "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\images\\calender.png",
+      "SourceId": "CIPlatformWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\",
+      "BasePath": "_content/CIPlatformWeb",
+      "RelativePath": "images/calender.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\calender.png"
     },
     {
       "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\images\\Companylogo.png",
@@ -374,6 +408,40 @@
       "OriginalItemSpec": "wwwroot\\images\\Grow-Trees-On-the-path-to-environment-sustainability-login.png"
     },
     {
+      "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\images\\heart1.png",
+      "SourceId": "CIPlatformWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\",
+      "BasePath": "_content/CIPlatformWeb",
+      "RelativePath": "images/heart1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\heart1.png"
+    },
+    {
+      "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\images\\pin1.png",
+      "SourceId": "CIPlatformWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\",
+      "BasePath": "_content/CIPlatformWeb",
+      "RelativePath": "images/pin1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pin1.png"
+    },
+    {
       "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\images\\Profilephoto.png",
       "SourceId": "CIPlatformWeb",
       "SourceType": "Discovered",
@@ -476,6 +544,23 @@
       "OriginalItemSpec": "wwwroot\\images\\star.png"
     },
     {
+      "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\images\\star-empty.png",
+      "SourceId": "CIPlatformWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\",
+      "BasePath": "_content/CIPlatformWeb",
+      "RelativePath": "images/star-empty.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\star-empty.png"
+    },
+    {
       "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\images\\user-img.png",
       "SourceId": "CIPlatformWeb",
       "SourceType": "Discovered",
@@ -491,6 +576,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\user-img.png"
+    },
+    {
+      "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\images\\web.png",
+      "SourceId": "CIPlatformWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\",
+      "BasePath": "_content/CIPlatformWeb",
+      "RelativePath": "images/web.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\web.png"
     },
     {
       "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\js\\Filterbar.js",
@@ -542,6 +644,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\js\\VolunteerMissionPage.js",
+      "SourceId": "CIPlatformWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\",
+      "BasePath": "_content/CIPlatformWeb",
+      "RelativePath": "js/VolunteerMissionPage.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\VolunteerMissionPage.js"
     },
     {
       "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

@@ -36,20 +36,272 @@
 
 <body>
     @Html.Partial("_HeaderBar")
-    @Html.Partial("_FilterBar")
+    
 
+    <div class="container-fluid">
+        <div class="row">
+            <div class=" col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                <!-- Container for the image gallery -->
+                <div class="container pt-4">
+                  
+
+                    <!-- Full-width images with number text -->
+                    <div class="mySlides">
+                        <div class="numbertext">1 / 6</div>
+                        <img class="displayimage" src="~/images/Animal-welfare-_-save-birds-campaign-1.png" style="width:100%">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">2 / 6</div>
+                        <img class="displayimage" src="~/images/CSR-initiative-stands-for-Coffee--and-Farmer-Equity.png" style="width:100%">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">3 / 6</div>
+                        <img class="displayimage"  src="~/images/Education-Supplies-for-Every--Pair-of-Shoes-Sold.png" style="width:100%">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">4 / 6</div>
+                        <img class="displayimage"  src="~/images/Animal-welfare-_-save-birds-campaign.png" style="width:100%">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">5 / 6</div>
+                        <img class="displayimage" src="~/images/Animal-welfare-_-save-birds-campaign.png" style="width:100%">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">6 / 6</div>
+                        <img class="displayimage" src="~/images/CSR-initiative-stands-for-Coffee--and-Farmer-Equity.png" style="width:100%">
+                    </div>
+
+                    <!-- Next and previous buttons -->
+                    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+                    <!-- Image text -->
+                    @*<div class="caption-container">
+                        <p id="caption"></p>
+                    </div>*@
+
+                    <!-- Thumbnail images -->
+                    <div class="row py-3">
+                        <div class="column pr-0">
+                            <img class="demo cursor" src="~/images/Animal-welfare-_-save-birds-campaign.png" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+                        </div>
+                        <div class="column pr-0">
+                            <img class="demo cursor" src="~/images/CSR-initiative-stands-for-Coffee--and-Farmer-Equity.png" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
+                        </div>
+                        <div class="column pr-0">
+                            <img class="demo cursor" src="~/images/Education-Supplies-for-Every--Pair-of-Shoes-Sold.png" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+                        </div>
+                        <div class="column pr-0">
+                            <img class="demo cursor" src="~/images/Animal-welfare-_-save-birds-campaign.png" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
+                        </div>
+                        <div class="column pr-0">
+                            <img class="demo cursor" src="~/images/Education-Supplies-for-Every--Pair-of-Shoes-Sold.png" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
+                        </div>
+                        <div class="column pr-0">
+                            <img class="demo cursor" src="~/images/Animal-welfare-_-save-birds-campaign.png" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class=" col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                <div class="card-body">
+                    <p class="card-title" style="font-size:25px;">Grow tress-For environmental sustainability </p>
+                    <p class="card-text" style="color:#757575;  margin-bottom:2rem; font-size:18px">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+                   @* <div class="d-flex justify-content-between">
+                        <div>Tree Canada</div>
+                        <div class="flex">
+                            <img src="~/images/selected-star.png" />
+                            <img src="~/images/selected-star.png" />
+                            <img src="~/images/selected-star.png" />
+                            <img src="~/images/selected-star.png" />
+                            <img src="~/images/selected-star.png" />
+                        </div>
+                    </div>*@
+
+                    <div class="SEDdiv">
+
+                        <hr class="mt-3">
+                        <div class=" rounded-pill" style="background-color:#F5F5F5; 
+                                                          text-align:center; 
+                                                          width:fit-content;
+                                                          margin: auto;
+                                                          margin-top: -30px;    
+                                                          position: relative;">
+                            From 10/01/2021 to 10/02/2021
+                        </div>
+                       
+
+                    </div>
+
+
+                    <div class="d-flex justify-content-around mt-2">
+                        <div class="">
+                            <img src="~/images/Seats-left.png" />
+                            <span>10</span>
+                            <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seats left</p>
+
+                        </div>
+
+                        <div class=" d-flex justify-content-end">
+                            <img class="w-10 targetimage" src="~/images/achieved.png" />
+                            <div>
+                                <div class="w-90 progress my-1">
+                                    <div class="progress-bar bg-warning" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+
+                                </div>
+                                <span>8000 achieved</span>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+
+                    <hr class="mt-0">
+
+                      <div class="row my-4">  @*favorite-invite-wrapper d-flex content-center column-gap-3 row-gap-3 mb-4*@
+                        <button class="btn border border-secondary w-100 rounded-pill col-lg-6 col-md-6 col-sm-12">
+                    <img src="~/images/heart1.png"/>
+                    Add to Favorite
+                     </button>
+                        <button class="btn border border-secondary w-100 rounded-pill divclass col-lg-6 col-md-6 col-sm-12">
+                            <img src="~/images/add1.png" />
+                    Recommend a to co-worker
+                        </button>
+                    </div>
+
+                    <div> 
+
+                        <hr class="mt-3">
+                        <div class="d-flex ratingstarempty" >
+                            <img src="~/images/star-empty.png" class="starempty" >
+                            <img src="~/images/star-empty.png" class="starempty">
+                            <img src="~/images/star-empty.png" class="starempty">
+                            <img src="~/images/star-empty.png" class="starempty">
+                            <img src="~/images/star-empty.png" class="starempty">
+                            
+                        </div>
+
+
+                    </div>
+
+                   
+                        <div class="d-flex flex-wrap gap-3 justify-content-around mt-3">
+                        
+                            
+                         <div class=" border border-secondary rounded">
+                            <div class="ml-3 mt-2">
+                                <img src="~/images/pin1.png"/>
+                            </div>
+                            <div class="mt-3 mr-5 ml-3 mb-3" >
+                                <div class="city">
+                                    City
+                                </div>
+                                <div class="citydetail"  style="margin-right:30px !important;">
+                                    London
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class=" border border-secondary rounded">
+                            <div class="ml-3 mt-2">
+                                <img src="~/images/pin1.png" />
+                            </div>
+                            <div class="mt-3 mr-5 ml-3 mb-3">
+                                <div class="city">
+                                    Theme
+                                </div>
+                                <div class="citydetail">
+                                    Environment
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class=" border border-secondary rounded">
+                            <div class="ml-3 mt-2">
+                                <img src="~/images/pin1.png" />
+                            </div>
+                            <div class="mt-3 mr-5 ml-3 mb-3">
+                                <div class="city">
+                                    Date
+                                </div>
+                                <div class="citydetail">
+                                    <pre>Ongoing 
+Opportunity</pre>
+                                    
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class=" border border-secondary rounded">
+                            <div class="ml-3 mt-2">
+                                <img src="~/images/pin1.png" />
+                            </div>
+                            <div class="mt-3 mr-5 ml-3 mb-3">
+                                <div class="city">
+                                    Organization
+                                </div>
+                                <div class="citydetail">
+                                    CSE Network
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+
+
+
+                    <div class="mt-3">
+                        <a href="#" class="btn border-warning rounded-pill" style="position: relative;left: 0%;">
+                            <span style="color:orange">Apply Now &nbsp; </span> <img src="~/images/right-arrow.png" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        @*<div class="row">
+             <div class="col col-lg-8 col-md-8 col-sm-12">
+
+            </div>
+
+            <div class="col col-lg-8 col-md-8 col-sm-12">
+
+            </div>
+        </div>*@
+
+
+  </div>
 
 
     
 
-        <div class="h-25"> 
-            @Html.Partial("_RelatedMissions")
-        </div>
+        
+            
+    
+    
+    
+    
+    @Html.Partial("_RelatedMissions")
+        
     
 
 
     
 
 </body>
+
+<script src="~/js/VolunteerMissionPage.js"></script>
 
 </html>
