@@ -28,3 +28,28 @@ function showSlides(n) {
     dots[slideIndex - 1].className += " active";
     captionText.innerHTML = dots[slideIndex - 1].alt;
 }
+
+
+
+
+//Additional Code
+
+
+let add = () => {
+    
+    let comment = document.querySelector(' #Commentlisting');
+
+    if (comment.value != "") {
+
+        let list = document.querySelector('.list');
+        
+
+        let list_item = document.createElement("l1");
+
+        list_item.innerHTML = `<span><p>${name.value} ${now}</p></span>`;
+        list.append(list_item);
+    }
+
+  
+    name.value = comment.value = "";
+}

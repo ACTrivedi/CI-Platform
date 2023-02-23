@@ -10,8 +10,7 @@
 
 /*CSS FOR CARD GALLERY*/
 
-
-* {
+.carddetails {
     box-sizing: border-box;
     text-align:center;
 }
@@ -150,6 +149,10 @@ MY CSS*/
     font-size:15px;
 }
 
+.infoboxlogo {
+    text-align:left;
+    margin-left:1rem;
+}
 
 
 
@@ -181,3 +184,37 @@ MY CSS*/
         max-height:100%;
     }
 }
+
+/*MOCTab*/
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 4px solid black;
+    border-bottom: 3px solid black !important; 
+    color:black;
+}
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
+   
+    /*border-bottom: 3px solid black !important;*/
+    color:black;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    
+}
+.nav-link {
+    color:black;
+}
+
+
+
+
+.volimage {
+    margin-top:10%;
+    height:8vh;
+    margin-bottom:3%;
+}
+
+
