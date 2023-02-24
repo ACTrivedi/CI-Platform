@@ -48,6 +48,11 @@ namespace CIPlatformWeb.Controllers
             return View();
         }
 
+        public IActionResult StoryListingPage()
+        {
+            return View();
+        }
+
 
 
 

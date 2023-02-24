@@ -1,8 +1,9 @@
 ﻿body {
-    
+   
 }
 .button1, .button2 {
     border:2px black;
+    height:44px;
 }
 
 .new{
@@ -36,14 +37,15 @@
     display: none;
 }
 
-
-
-@media (min-width:370px) and (max-width:976px) {
-
-    h4 {
-       position:relative;
-       left:30%;
-    }
+h4 {
+    position:relative;
+    top:24%;
+    margin: auto;
+    
 }
 
-
+@media only screen and (max-width:444px) {
+    .button1, .button2 {
+        display:none;
+    }
+}

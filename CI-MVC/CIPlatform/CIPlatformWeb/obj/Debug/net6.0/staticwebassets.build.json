@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iM8T0dDJMz4yFpVtQYZvNDVc9DF5FM20wpScy7DQjEg=",
+  "Hash": "5OFclBITeU0N+tRm1MIqLYi231hxFq94iYN49ZTWabQ=",
   "Source": "CIPlatformWeb",
   "BasePath": "_content/CIPlatformWeb",
   "Mode": "Default",
@@ -185,6 +185,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Resetpassword.css"
+    },
+    {
+      "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\css\\StoryListingPage.css",
+      "SourceId": "CIPlatformWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\",
+      "BasePath": "_content/CIPlatformWeb",
+      "RelativePath": "css/StoryListingPage.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StoryListingPage.css"
     },
     {
       "Identity": "C:\\Aakash's Work\\TatvaSoft\\HTML Training Assignment\\Assignment_CI\\CI-MVC\\CIPlatform\\CIPlatformWeb\\wwwroot\\css\\VolunteeringMissionPage.css",
